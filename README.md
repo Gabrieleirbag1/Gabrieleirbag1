@@ -31,9 +31,10 @@
 <div align="left">
   <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/django-icon.svg" height="30" alt="django logo" />
   <img width="12" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
+  <img width="12" />
   <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/flask-icon.png" height="30" alt="flask logo" />
+  <img width="12" />
   <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/godot-icon.svg" height="30" alt="godot logo" />
   <img width="12" />
   <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/qt-icon.png" height="30" alt="qt logo" />
