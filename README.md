@@ -37,7 +37,6 @@
   <img width="12" />
   <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/godot-icon.svg" height="30" alt="godot logo" />
   <img width="12" />
-  <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/qt-icon.png" height="30" alt="qt logo" />
 </div>
 
 ###
