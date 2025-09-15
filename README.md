@@ -33,10 +33,10 @@
   <img width="12" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
-  <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/flask-icon.webp" height="30" alt="flask logo" /><>
+  <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/flask-icon.webp" height="30" alt="flask logo" />
   <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/godot-icon.svg" height="30" alt="godot logo" />
   <img width="12" />
-  <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/qt-icon.png" height="30" alt="qt logo" /><>
+  <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/qt-icon.png" height="30" alt="qt logo" />
 </div>
 
 ###
