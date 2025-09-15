@@ -17,11 +17,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/cpp-icon.svg.png" height="30" alt="cpp logo" />
+  <img width="12" />
+  <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/c-icon.svg" height="30" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/c-icon.svg" height="30" alt="c logo" />
 </div>
 
 ###
@@ -30,10 +31,12 @@
 <div align="left">
   <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/django-icon.svg" height="30" alt="django logo" />
   <img width="12" />
-  <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/godot-icon.svg" height="30" alt="godot logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
+  <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/flask-icon.webp" height="30" alt="flask logo" /><>
+  <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/godot-icon.svg" height="30" alt="godot logo" />
   <img width="12" />
+  <img src="https://github.com/Gabrieleirbag1/Gabrieleirbag1/blob/main/assets/qt-icon.png" height="30" alt="qt logo" /><>
 </div>
 
 ###
